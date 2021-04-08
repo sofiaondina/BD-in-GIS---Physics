@@ -2,7 +2,7 @@
 
 1) Plot a map showing the density of population of the towns in the province of Milano, in 2011. 
 
-2)Answer the following questions:
+2) Answer the following questions:
 
   - What is the difference in the average the global mean temperature anomaly for the last 30 years of the record, compared to that of the first three decades of the twentieth century ?
   
